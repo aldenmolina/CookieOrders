@@ -3,7 +3,7 @@ using Xunit;
 
 namespace CookieOrdersTests.Tests
 {
-    public class UnitTest1
+    public class CookieOrderTest
     {
         [Fact]
         public void Test1()

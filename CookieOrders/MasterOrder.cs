@@ -8,11 +8,6 @@ namespace CookieOrders
     {
         public List<CookieOrder> orders { get; set; }
 
-        public void MasterOrder()
-        {
-            
-        }
-
         public void AddOrder(CookieOrder theOrder)
         {
             orders.Add(theOrder);
