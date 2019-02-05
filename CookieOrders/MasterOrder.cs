@@ -29,7 +29,7 @@ namespace CookieOrders
             {
                 if (box.Variety == variety)
                 {
-                    orders.Remove(box);
+                    orders.Remove(boxrc);
                 }
             }
         }
